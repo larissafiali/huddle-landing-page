@@ -1,0 +1,67 @@
+ @media (max-width:550px) {
+    
+    body{
+        background-image:url('../images/bg-mobile.svg');
+        background-size: contain;
+    }
+
+    .logo-site img{
+      height: 50px;
+      width: 100px;
+      margin: 20px;
+    }
+
+   .descricao .image{
+    width: 300px;
+    margin-bottom: 20px;
+   }
+
+   .descricao{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    ;
+    
+   }
+
+   .descricao .descricao-site{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    align-self: center;
+    max-width: 300px;
+    text-align: center;
+    margin: 20px;
+  }
+
+   .descricao .descricao-site h2{
+    font-size: 25px;
+  }
+
+   .descricao .descricao-site .btn{
+     width: 130px;
+     margin-bottom: 30px;
+   }
+
+   .social-links{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+  }
+
+  .social-links .icon{
+    text-align: center;
+    margin: 5px;
+     }
+
+}
+
+
+
+
+
+
+  
+  
+
+
