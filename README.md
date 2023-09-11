@@ -24,13 +24,16 @@ Users should be able to:
 ### Screenshot
 
 #### Desktop 💻
-![Alt text](<landing desktop.png>)
+![landing desktop](https://github.com/larissafiali/huddle-landing-page/assets/127343150/a90e55c2-91f4-4c0d-9d08-2aa4d87f6fa7)
+
 
 #### Mobile 🤳🏻
-![Alt text](<landing mobile.png>)
+![landing mobile](https://github.com/larissafiali/huddle-landing-page/assets/127343150/1a49dcf8-eba4-46f8-acd1-8ccea29bd825)
+
 
 #### Active states
-![Alt text](image-1.png)
+![image](https://github.com/larissafiali/huddle-landing-page/assets/127343150/a8ae531a-3573-4227-baa9-82cf81a4943e)
+
 
 ### Links
 
