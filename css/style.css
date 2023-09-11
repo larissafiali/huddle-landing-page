@@ -4,6 +4,7 @@ html{
 
 body{
     background: var( --background-color) url('../images/bg-desktop.svg') no-repeat;
+    max-width: 1440px;
 }
 
 .logo-site img{
@@ -60,7 +61,6 @@ body{
 .social-links  {
  display: flex;
  justify-content: flex-end;
- margin: 0px 40px;
  
  
 }
